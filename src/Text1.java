@@ -2,8 +2,11 @@
 public class Text1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+String hung="yes";
+if(hung=="yes")
+	System.out.println("something eat");
+else
+	System.out.println("do work");
 	}
 
 }
